@@ -2,6 +2,8 @@
 
 # dffranc
 
+<img src="./profile.png" alt="dffranc profile picture" width="100" style="border-radius: 0%;" />
+
 ### Software Developer • Web • Systems
 
 <br />
